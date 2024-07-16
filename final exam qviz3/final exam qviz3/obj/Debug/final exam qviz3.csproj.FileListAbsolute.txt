@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\final exam qviz3\final exam qviz3\obj\Debug\final exam qviz3.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\final exam qviz3\final exam qviz3\obj\Debug\final exam qviz3.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\final exam qviz3\final exam qviz3\bin\Debug\final exam qviz3.exe.config
+C:\Users\user\Desktop\final exam qviz3\final exam qviz3\bin\Debug\final exam qviz3.exe
+C:\Users\user\Desktop\final exam qviz3\final exam qviz3\bin\Debug\final exam qviz3.pdb
+C:\Users\user\Desktop\final exam qviz3\final exam qviz3\obj\Debug\final exam qviz3.exe
+C:\Users\user\Desktop\final exam qviz3\final exam qviz3\obj\Debug\final exam qviz3.pdb
